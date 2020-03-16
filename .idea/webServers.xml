@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6eaec4f-3577-4600-a4a0-257dcd0fc865" name="kasaiyuki.github.io" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\Users\KasaiYuki\IdeaProjects" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
