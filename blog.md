@@ -6,5 +6,5 @@ layout: default
 title: Home page
 ---
 <div class="blurb">
-    <h1>Hi there, I'm Shreyas! <br> Welcome to Straight Up School!</h1>
+    <h1>Hi there, I'm Shreyas! <br> Welcome to the Blog!</h1>
 </div><!-- /.blurb -->

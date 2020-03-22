@@ -30,6 +30,7 @@ github_username:  kasaiyuki
 # Build settings
 markdown: kramdown
 theme: minima
+root: /octo-5
 plugins:
   - jekyll-feed
 
