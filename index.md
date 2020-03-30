@@ -5,6 +5,5 @@
 layout: default
 title: Home page
 ---
-<div class="blurb">
-    <h1>Hi there, I'm Shreyas! <br> Welcome to Straight Up School!</h1>
-</div><!-- /.blurb -->
+# Welcome to Straight Up School!
+## Your one-stop stop for anything Physics (and hopefully soon, calculus)!
