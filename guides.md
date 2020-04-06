@@ -5,7 +5,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Study Guides
-layout: default
 ---
 
 ## AP Physics 1
