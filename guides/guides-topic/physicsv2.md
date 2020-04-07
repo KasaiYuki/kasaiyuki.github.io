@@ -4,6 +4,6 @@
 
 layout: guidelayout
 title: Home page
-permalink: /guides/physicsv3
+
 ---
-# Unit 3: Linear Momentum and Impulse
+# Unit 2: Dynamics

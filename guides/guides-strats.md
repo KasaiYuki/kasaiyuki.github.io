@@ -1,9 +1,9 @@
 ---
+
 # Feel free to add content and custom Front Matter to this file.
+
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: guidelayout
-title: Home page
-permalink: /guides/physicsv7
+title: How to solve Physics problems
 ---
-# Unit 7: Simple Harmonic Motion
+## 2D Kinematics

@@ -4,6 +4,5 @@
 
 layout: guidelayout
 title: Home page
-permalink: /guides/calcv2
 ---
-# Unit 2: Derivatives
+# Unit 5: Circular Motion and Universal Gravitation

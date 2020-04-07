@@ -4,6 +4,5 @@
 
 layout: guidelayout
 title: Home page
-permalink: /guides/physicsv6
 ---
 # Unit 6: Rotational Motion

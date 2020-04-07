@@ -4,6 +4,5 @@
 
 layout: guidelayout
 title: Home page
-permalink: /guides/physicsv4
 ---
-# Unit 4: Energy
+# Unit 7: Simple Harmonic Motion

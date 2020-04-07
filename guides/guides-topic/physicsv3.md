@@ -4,6 +4,5 @@
 
 layout: guidelayout
 title: Home page
-permalink: /guides/physicsv1
 ---
-# Unit 1: Kinematics
+# Unit 3: Linear Momentum and Impulse

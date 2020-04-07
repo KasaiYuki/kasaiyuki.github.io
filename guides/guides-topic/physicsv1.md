@@ -1,12 +1,9 @@
 ---
-
 # Feel free to add content and custom Front Matter to this file.
-
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Study Guides Home
----
+layout: guidelayout
+title: Home page
 
-## [By topic](guides-topic)
-## [By type](guides-type)
-## [Strategies to solve problems](guides-strats)
+---
+# Unit 1: Kinematics
