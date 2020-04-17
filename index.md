@@ -6,4 +6,8 @@ layout: default
 title: Home page
 ---
 # Welcome to Straight Up School!
-## Your one-stop stop for anything Physics (and hopefully soon, calculus)!
+## Your one-stop stop for anything Physics (and hopefully soon, calculus)! (yes I said stop twice) 
+
+&nbsp;
+
+I need a better home page ugh.

@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: guidelayout
-title: Home page
+title: Unit 5 - Circular Motion and Universal Gravitation
 ---
-# Unit 5: Circular Motion and Universal Gravitation

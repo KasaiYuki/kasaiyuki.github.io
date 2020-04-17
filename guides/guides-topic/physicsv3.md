@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: guidelayout
-title: Home page
+title: Unit 3 - Linear Momentum and Impulse
 ---
-# Unit 3: Linear Momentum and Impulse

@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: guidelayout
-title: Home page
+title: Unit 1 - Kinematics
 
 ---
-# Unit 1: Kinematics
