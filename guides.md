@@ -8,5 +8,5 @@ title: Study Guides Home
 ---
 
 ## [By topic](guides-topic)
-## [By type](guides-type)
+## [Concepts](guides-concepts)
 ## [Strategies to solve problems](guides-strats)
