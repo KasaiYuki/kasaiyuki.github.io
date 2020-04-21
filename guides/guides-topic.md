@@ -14,7 +14,7 @@ title: Study Guides by Topic
     <summary>Unit 1: Kinematics</summary>
     <ul>
         <li> <a style="margin-left: 40px" href="https://drive.google.com/open?id=118keWWOE1CT9AkRB8_kMghHLbmojHr237Px84SN0Nmo" target="_blank">Google Docs Link</a> </li>
-        <li> <a style="margin-left: 40px" href="physicsv1">Study Guide </a> </li>
+        <li> <a style="margin-left: 40px" href="/guides/guides-topic/physicsv1">Study Guide </a> </li>
     </ul>
 </details>
 
