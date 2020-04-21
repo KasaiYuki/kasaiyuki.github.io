@@ -8,4 +8,4 @@ This will help you filter out unessesary knowledge and use the correct concepts.
 
 ---
 
-## [2D Kinematics](./kin-strats)
+## [2D Kinematics](/guides/guides-strats/kin-strats)
