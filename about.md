@@ -16,7 +16,7 @@ For each study guide, there will be a link to the Google Document, but you can a
 
 At the footer section, all of my contact information will be displayed for any questions, comments, and concerns.
 
-Furthermore, should anyone have a question on a specific problem they encountered, I can post a solution for it over at <a href="/blog">the blog page </a>.
+Furthermore, should anyone have a question on a specific problem they encountered, I can post a solution for it over at <a href="/blog">the blog page </a>. Now, we can even use Disqus (at the bottom of most pages) to make comments, ask questions, and have discussions!
 
 Thanks for visiting my website and please contact me if you have any questions or comments!
 
