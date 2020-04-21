@@ -10,14 +10,14 @@ title: Concepts
 ---
 ## Kinematics
 
-    - Vector: a quantity that has both magnitude(amount) and direction. Ex: 35 miles(magnitude) west(direction)
-    - Scalar: a quantity that has only magnitude. Ex: 25 mph.
-    - Distance vs. Displacement 
-        - Distance (scalar) is how far something moves and it includes the path travelled. Ex: 3 meters
-            - Distance can NOT be negative, no matter where the object goes. This is because distance, being a scalar has no directional value
-        - Displacement (vector) is the straight-line distance from where the object started to where it ended. Ex: 2 Meters 36 degrees
-            - Displacement is the change in position of an object. Δx = xf − xi
-            - Displacement, being a vector, can be negative. Ex: going backwards.
+1. Vector: a quantity that has both magnitude(amount) and direction. Ex: 35 miles(magnitude) west(direction)
+2. Scalar: a quantity that has only magnitude. Ex: 25 mph.
+3. Distance vs. Displacement 
+    1. Distance (scalar) is how far something moves and it includes the path travelled. Ex: 3 meters
+        1. Distance can NOT be negative, no matter where the object goes. This is because distance, being a scalar has no directional value
+    2. Displacement (vector) is the straight-line distance from where the object started to where it ended. Ex: 2 Meters 36 degrees
+        1. Displacement is the change in position of an object. Δx = xf − xi
+        2. Displacement, being a vector, can be negative. Ex: going backwards.
 
 
 ## 2D Kinematics
