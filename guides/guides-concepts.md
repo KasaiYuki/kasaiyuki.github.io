@@ -4,7 +4,7 @@
 
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: guidelayout
+layout: default
 title: Concepts
 ---
 ## Kinematics
@@ -26,7 +26,7 @@ ax=0, so vx is **constant**.
 t is the **same** in both Y and X directions-good variable to solve for
 $$ a_y = 10 $$ (downward)
 
-![projectile-motion-diagram](/images/projmot.png)
+![projectile-motion-diagram](/assets/projmot.png)
 
 If given initial velocity at an angle(resultant), separate it into its components: 
     

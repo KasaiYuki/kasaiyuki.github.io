@@ -7,6 +7,6 @@
 title: Study Guides Home
 ---
 
-## [By topic](guides/guides-topic)
-## [Concepts](guides/guides-concepts)
-## [Strategies to solve problems](guides/guides-strats)
+## [By topic](/guides/guides-topic)
+## [Concepts](/guides/guides-concepts)
+## [Strategies to solve problems](/guides/guides-strats)

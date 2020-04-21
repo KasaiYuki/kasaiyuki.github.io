@@ -4,20 +4,13 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <!-- link to main stylesheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
 </head>
 <body>
-<nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/guides">Study Guides</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="./">Back</a></li>
-    </ul>
-</nav>
+    {% include navbar2.html %}
 <div class="container">
     <h1>{{page.title}}</h1>
 

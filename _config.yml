@@ -27,6 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sseethalla
 github_username:  kasaiyuki
 
+# List of links in the navigation bar
+navbar-links:
+  Home: "/"
+  About: "/about"
+  Study Guides: "/guides"
+  Blog: "/Blog"
+
 # Build settings
 markdown: kramdown
 theme: minima
