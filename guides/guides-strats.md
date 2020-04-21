@@ -1,4 +1,5 @@
 ---
+comments: true
 title: How to solve Physics problems
 ---
 General Tip: ALWAYS figure out what topic/topics you need to answer this question. 

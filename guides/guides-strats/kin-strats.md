@@ -1,5 +1,6 @@
 ---
 layout: guidelayout
+comments: true
 title: How to solve Kinematics problems
 ---
 ## Word Problems
