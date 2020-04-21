@@ -24,8 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website hosts all of my study guides for Physics and Calculus as well as all of my blogs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sseethalla
-github_username:  kasaiyuki
+author: 
+  name: Shreyas Seethalla
+  email: shreyas.seethalla@gmail.com
+
+# generate social links in footer
+social_links:
+  twitter: sseethalla
+  github:  kasaiyuki
+ 
 
 # List of links in the navigation bar
 navbar-links:
