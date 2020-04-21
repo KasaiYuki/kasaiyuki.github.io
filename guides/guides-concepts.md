@@ -4,7 +4,7 @@
 
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 label: 103
-layout: default
+layout: guidelayout
 comments: true
 title: Concepts
 ---
