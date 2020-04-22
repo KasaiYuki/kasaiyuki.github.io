@@ -18,10 +18,10 @@ At the footer section, all of my contact information will be displayed for any q
 
 Furthermore, should anyone have a question on a specific problem they encountered, I can post a solution for it over at <a href="/blog">the blog page </a>. Now, we can even use Disqus (at the bottom of most pages) to make comments, ask questions, and have discussions!
 
-Thanks for visiting my website and please contact me if you have any questions or comments!
+Thanks for visiting my website and please contact me (links at the bottom) if you have any questions or comments!
 
 ### Cue the nerd talk
 
 This website was made using HTML (which was mostly made with ALOT of Markdown), CSS, and Ruby. I used the static site generator Jekyll to make it easy for me to create posts and Bootstrap to make the site look nice. 
 
-The website is being hosted by GitHub Pages.
+This website is being hosted by GitHub Pages.
