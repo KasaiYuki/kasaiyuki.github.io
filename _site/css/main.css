@@ -139,5 +139,14 @@ html { height: 100%; }
       padding-right: 0;
       padding-left: 5 / 2;
     }
-  }
+}
 
+a:link {
+  color: #2dd6ba;
+}
+a:visited {
+  color: #187867;
+}
+a:hover {
+  color:#23a690;
+}
