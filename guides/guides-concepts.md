@@ -7,6 +7,7 @@ label: 103
 layout: guidelayout
 comments: true
 title: Concepts
+permalink: /guides/guides-concepts/
 ---
 ## Kinematics
 

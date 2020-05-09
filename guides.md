@@ -5,6 +5,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 comments: false
 title: Study Guides Home
+permalink: /guides/
 ---
 
 ## [By topic](/guides/guides-topic)

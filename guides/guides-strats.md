@@ -2,6 +2,7 @@
 label: 102
 comments: true
 title: How to solve Physics problems
+permalink: guides/guides-strats/
 ---
 General Tip: ALWAYS figure out what topic/topics you need to answer this question. 
 

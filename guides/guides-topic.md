@@ -6,6 +6,7 @@
 label: 101
 comments: true
 title: Study Guides by Topic
+permalink: /guides/guides-topic/
 ---
 
 ## AP Physics 1
