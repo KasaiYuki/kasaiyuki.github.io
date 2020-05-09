@@ -9,4 +9,6 @@ title: Welcome to Straight Up School!
 
 &nbsp;
 
-I need a better home page ugh.
+#### Where learning is *straightforward*! (see what I did there?) 
+
+[Insert your preferred inspirational quote and/or stock image here]
