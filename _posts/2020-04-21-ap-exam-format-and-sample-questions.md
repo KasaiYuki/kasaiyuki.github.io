@@ -6,9 +6,9 @@ label: 502
 comments: true
 categories: 
 ---
-### Hi!
+### Are you ready!
 
-I wanted to make this post to just remind everyone about the format of the exam this year.
+With the exam closing in, I wanted to make this post to just remind everyone about the format of the exam this year.
 So there are Two FRQs:
 * Q1 - Qualitative/Quantitative Translation (QQT) - will be 25 minutes and is 60% of your score
 * Q2 - Paragraph Argument Short Answer - will be 15 mins and is 40% of your score
