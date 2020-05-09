@@ -6,4 +6,4 @@ layout: home
 title: Welcome to the Blog page
 permalink: /blog/
 ---
-## Here I plan to post more informal stuff like physics shower thoughts
+## Here I plan to post more informal stuff like physics shower thoughts or quick updates

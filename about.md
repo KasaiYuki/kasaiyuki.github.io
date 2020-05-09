@@ -22,6 +22,6 @@ Thanks for visiting my website and please contact me (links at the bottom) if yo
 
 ### Cue the nerd talk
 
-This website was made using HTML (which was mostly made with ALOT of Markdown), CSS, and Ruby. I used the static site generator Jekyll to make it easy for me to create posts and Bootstrap to make the site look nice. 
+This website was made using HTML (which was mostly generated with ALOT of Markdown), CSS, and Ruby. I used the static site generator Jekyll to make it easy for me to create posts and Bootstrap to make the site look nice. 
 
 This website is being hosted by GitHub Pages.
