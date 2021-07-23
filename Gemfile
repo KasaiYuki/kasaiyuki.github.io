@@ -13,7 +13,6 @@ gem "minima", "~> 2.5"
 #Updates to address dependabot alerts
 gem "nokogiri", ">= 1.11.4"
 gem "addressable", ">= 2.8.0"
-#gem "kramdown", ">= 2.3.1" requires a github pages update
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
