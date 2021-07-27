@@ -4,7 +4,6 @@
 
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 label: 103
-layout: guidelayout
 comments: true
 title: Concepts
 permalink: /guides/guides-concepts/
