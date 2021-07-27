@@ -16,4 +16,4 @@ On top of this, I have scanned a few of my old exams from high school (AP):
 * [2D Kinematics](https://drive.google.com/file/d/1T8HhfvILlDUuVe_xDYO1NK8fgsaSKdAd/view?usp=sharing)
 * [Misc](https://drive.google.com/file/d/17D_LrsNtmJmbAGHFacjpEV8N2eNJpHBX/view?usp=sharing)
 
-Also feel free to check out the [2D Kinematics tricks page](/guides/guides-strats/kin-strats)
+Also feel free to check out the [2D Kinematics tricks page](/guides/guides-strats/kin-strats) for some more general tips as well as all my [study guides](/guides/guides-topic/) for more detailed help. 
